@@ -91,7 +91,7 @@ BiocManager::install("STRINGdb")
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://i.imgur.com/ZQxpNaLb.jpg
+[2.1]: https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
