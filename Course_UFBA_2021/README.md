@@ -5,9 +5,9 @@
 * [Softwares](#softwares-and-packages)
 
 ## General info
-This is a repository for the files and codes used for the course "Análises de dados funcionais usando o R" presented as part of the event "Aplicabilidades de Softwares em análises genômicas". In this course we will cover some relevant tools for the identification of functional canidate genes and candidate functional variant selection. Among these tools we will discuss the use of Gene Ontology, MeSH, Metabolic pathways and Quantitative Trait Loci (QTL) annotation (and enrichment analysis). Additionally, we will discuss the importance of data integration and the use of tools for data summary, comparision and visualization. 
+This is a repository for the files and codes used for the course "Análises de dados funcionais usando o R" presented as part of the event "Aplicabilidades de Softwares em análises genômicas". In this course we will cover some relevant tools for the identification of functional canidate genes and candidate functional variant selection. Among these tools we will discuss the use of Gene Ontology, MeSH, Metabolic pathways and Quantitative Trait Loci (QTL) annotation (and enrichment analysis). Additionally, we will discuss the importance of data integration and the use of tools for data summary, comparison and visualization. 
 
-The this data respository is composed by the following folders:
+This data respository is composed by the following folders:
 
 - **data:** The data folder contains all the required datasets used for the analysis performed during this course.
 
