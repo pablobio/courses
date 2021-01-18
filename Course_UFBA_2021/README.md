@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Softwares](#softwares-and-packages)
+* [Contact](#contact)
 
 ## General info
 This is a repository for the files and codes used for the course "Análises de dados funcionais usando o R" presented as part of the event "Aplicabilidades de Softwares em análises genômicas". In this course we will cover some relevant tools for the identification of functional canidate genes and candidate functional variant selection. Among these tools we will discuss the use of Gene Ontology, MeSH, Metabolic pathways and Quantitative Trait Loci (QTL) annotation (and enrichment analysis). Additionally, we will discuss the importance of data integration and the use of tools for data summary, comparison and visualization. 
@@ -67,3 +68,34 @@ install.packages("MeSH.Bta.eg.db")
 BiocManager::install("STRINGdb")
 ```
 
+## Contact
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][6.1]][6]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/pablo_bio
+[6]: http://www.github.com/pablobio
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
