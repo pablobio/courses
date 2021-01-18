@@ -1,6 +1,7 @@
 # Analyzing functional data using R  
 
 **Author:** Pablo Fonseca
+
 **Date:** 05/02/21
 
 ## Table of contents
