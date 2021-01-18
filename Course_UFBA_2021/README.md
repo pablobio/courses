@@ -21,4 +21,4 @@ For this course you will need to have installed in your computer the latest vers
 
 - **R:** https://vps.fmvz.usp.br/CRAN/
 
--**Rstudio:** https://rstudio.com/products/rstudio/download/
+- **Rstudio:** https://rstudio.com/products/rstudio/download/
