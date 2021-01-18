@@ -16,3 +16,9 @@ The this data respository is composed by the following folders:
 - **scripts:** The scripts with code used for the analysis performed in this course are saved in this folder.
 
 ## Softwares and packages
+
+For this course you will need to have installed in your computer the latest versions of R and RStudio. This softwares can be downloaded in the following links:
+
+- **R:** https://vps.fmvz.usp.br/CRAN/
+
+-**Rstudio:** https://rstudio.com/products/rstudio/download/
