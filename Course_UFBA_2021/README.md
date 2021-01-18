@@ -42,3 +42,28 @@ BiocManager::install("biomaRt")
 ```{r global_options, include = FALSE}
 install.packages("GALLO")
 ```
+
+- *WebGestaltR:* The web version WebGestalt <http://www.webgestalt.org> supports 12 organisms, 354 gene identifiers and 321,251 function categories. Users can upload the data and functional categories with their own gene identifiers. In addition to the Over-Representation Analysis, WebGestalt also supports Gene Set Enrichment Analysis and Network Topology Analysis. The user-friendly output report allows interactive and efficient exploration of enrichment results. The WebGestaltR package not only supports all above functions but also can be integrated into other pipeline or simultaneously analyze multiple gene lists.
+
+```{r global_options, include = FALSE}
+install.packages("WebGestaltR")
+```
+
+- *meshes:* MeSH (Medical Subject Headings) is the NLM controlled vocabulary used to manually index articles for MEDLINE/PubMed. MeSH terms were associated by Entrez Gene ID by three methods, gendoo, gene2pubmed and RBBH. This association is fundamental for enrichment and semantic analyses. meshes supports enrichment analysis (over-representation and gene set enrichment analysis) of gene list or whole expression profile. The semantic comparisons of MeSH terms provide quantitative ways to compute similarities between genes and gene groups. meshes implemented five methods proposed by Resnik, Schlicker, Jiang, Lin and Wang respectively and supports more than 70 species.
+
+```{r global_options, include = FALSE}
+install.packages("meshes")
+```
+
+- *MeSH.Bta.eg.db:* Mapping table for Bos taurus Gene ID to MeSH.
+
+```{r global_options, include = FALSE}
+install.packages("MeSH.Bta.eg.db")
+```
+
+- *STRINGdb:* The STRINGdb package provides a R interface to the STRING protein-protein interactions database (https://www.string-db.org).
+
+```{r global_options, include = FALSE}
+BiocManager::install("STRINGdb")
+```
+
