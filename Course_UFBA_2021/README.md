@@ -1,4 +1,4 @@
-# Análises de dados funcionais usando o R - 05/02/21
+# Analyzing functional data using R - 05/02/21
 
 ## Table of contents
 * [General info](#general-info)
