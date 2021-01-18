@@ -22,3 +22,9 @@ For this course you will need to have installed in your computer the latest vers
 - **R:** https://vps.fmvz.usp.br/CRAN/
 
 - **Rstudio:** https://rstudio.com/products/rstudio/download/
+
+In addition to R and RStudio, you will also need to install some packages that will be required for the analysis. The list of packages used in this course can be find below. 
+
+```{r global_options, include = FALSE}
+install.packages("GALLO")
+```
