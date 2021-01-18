@@ -81,7 +81,6 @@ BiocManager::install("STRINGdb")
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
 
@@ -91,7 +90,6 @@ BiocManager::install("STRINGdb")
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
@@ -104,7 +102,6 @@ BiocManager::install("STRINGdb")
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/pablo_bio
-[2]: https://scholar.google.com/citations?user=1VUm8EIAAAAJ&hl=pt-BR
 [6]: http://www.github.com/pablobio
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
