@@ -15,4 +15,4 @@ The this data respository is composed by the following folders:
 
 - **scripts:** The scripts with code used for the analysis performed in this course are saved in this folder.
 
-## Softwares
+## Softwares and packages
