@@ -8,8 +8,8 @@ This is a repository for the files and codes used for the course "Análises de d
 
 The this data respository is composed by the following folders:
 
-- *data:*
+- **data:** The data folder contains all the required datasets used for the analysis performed during this course.
 
-- *presentations:*
+- **presentations:** In this folder, you can find the presentations used for theoretical discussion during the course.
 
-- *scripts:*
+- **scripts:** The scripts with code used for the analysis performed in this course are saved in this folder.
