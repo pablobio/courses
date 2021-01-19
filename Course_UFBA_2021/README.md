@@ -76,7 +76,7 @@ BiocManager::install("STRINGdb")
 
 ## Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablofonseca.bio@gmail.com)](mailto:pablofonseca.bio@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pablofonseca.bio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablofonseca.bio@gmail.com)](mailto:pablofonseca.bio@gmail.com)
 
 [![Outlook Badge](https://img.shields.io/badge/-pfonseca@uoguelph.ca-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pfonseca@uoguelph.ca)](mailto:pfonseca@uoguelph.ca)
 
