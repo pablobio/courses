@@ -77,11 +77,8 @@ BiocManager::install("STRINGdb")
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-pablofonseca.bio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablofonseca.bio@gmail.com)](mailto:pablofonseca.bio@gmail.com)
-
 [![Outlook Badge](https://img.shields.io/badge/-pfonseca@uoguelph.ca-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pfonseca@uoguelph.ca)](mailto:pfonseca@uoguelph.ca)
-
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=1VUm8EIAAAAJ&hl=pt-BR)
-
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Pablo_Fonseca2)
 
 <!-- display the social media buttons in your README -->
