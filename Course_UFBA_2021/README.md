@@ -78,6 +78,8 @@ BiocManager::install("STRINGdb")
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:pfonseca@uoguelph.ca)
 
+[![Outlook Badge](https://img.shields.io/badge/-pfonseca@uoguelph.ca-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pfonseca@uoguelph.ca)](mailto:pfonseca@uoguelph.ca)
+
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
