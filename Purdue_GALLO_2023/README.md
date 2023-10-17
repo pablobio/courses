@@ -10,21 +10,19 @@
 * [Contact](#contact)
 
 ## General info
-This is a repository for the files and codes used for the course "Análises de dados funcionais usando o R" presented as part of the event "Aplicabilidades de Softwares em análises genômicas" (http://www.emevz.ufba.br/aplicabilidade-de-softwares-em-analises-genomicas). 
-
-In this course, we will cover some relevant tools for the identification of functional candidate genes and candidate functional variant selection. Among these tools, we will discuss the use of Gene Ontology, MeSH, Metabolic pathways, and Quantitative Trait Loci (QTL) annotation (and enrichment analysis). Additionally, we will discuss the importance of data integration and the use of tools for data summary, comparison, and visualization. 
+This is a repository for the files and codes used during the talk for the Advanced Statistical Methods in Animal Breeding (ASMAB) study group. 
 
 This data repository is composed of the following folders:
 
-- **data:** The data folder contains all the required datasets used for the analysis performed during this course.
+- **data:** The data folder contains all the required datasets used for the analysis performed during the talk.
 
-- **presentations:** In this folder, you can find the presentations used for theoretical discussion during the course.
+- **Presentation:** In this folder, you can find the presentation.
 
-- **scripts:** The scripts with code used for the analysis performed in this course are saved in this folder.
+- **scripts:** The scripts with code used for the analysis performed in this talk are saved in this folder.
 
 ## Software and packages
 
-For this course, you will need to have installed in your computer the latest versions of R and RStudio. This software can be downloaded through the following links:
+For this talk, you will need to have installed in your computer the latest versions of R and RStudio. This software can be downloaded through the following links:
 
 - **R:** https://vps.fmvz.usp.br/CRAN/
 
@@ -36,6 +34,21 @@ In addition to R and RStudio, you will also need to install some packages that w
 
 ```{r global_options, include = FALSE}
 install.packages("GALLO")
+```
+- *genomation:* A package for summary and annotation of genomic intervals.
+
+```{r global_options, include = FALSE}
+BiocManager::install("genomation")
+```
+- *visNetwork:*  a R package for network visualization, using vis.js javascript library.
+  
+```{r global_options, include = FALSE}
+install.packages("visNetwork")
+```
+- *igraph:* Routines for simple graphs and network analysis. It can handle large graphs very well and provides functions for generating random and regular graphs, graph visualization, centrality methods and much more.
+  
+```{r global_options, include = FALSE}
+install.packages("igraph")
 ```
 
 ## Contact
