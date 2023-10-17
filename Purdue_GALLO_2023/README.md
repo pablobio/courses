@@ -51,6 +51,11 @@ install.packages("visNetwork")
 install.packages("igraph")
 ```
 
+Additionally, for the GALLO tutorial, some annotation files must be downloaded. The files can be downloaded in the following link:
+
+https://we.tl/t-5XbO7PDtFM
+
+
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-pablofonseca.bio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablofonseca.bio@gmail.com)](mailto:pablofonseca.bio@gmail.com)
